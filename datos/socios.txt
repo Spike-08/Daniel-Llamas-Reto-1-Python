@@ -1,0 +1,15 @@
+S001;Ana García López;ana.garcia@example.com;None
+S002;Luis Martínez Ruiz;luis.martinez@example.com;None
+S003;Carmen Fernández Díaz;carmen.fernandez@example.com;L001
+S004;Javier Rodríguez Pérez;javier.rodriguez@example.com;None
+S005;María Sánchez Torres;maria.sanchez@example.com;L074
+S006;Daniel López Gómez;daniel.lopez@example.com;None
+S007;Laura Díaz Moreno;laura.diaz@example.com;L010
+S008;Pablo Hernández Gil;pablo.hernandez@example.com;None
+S009;Elena Ruiz Navarro;elena.ruiz@example.com;None
+S010;Sergio Moreno Vidal;sergio.moreno@example.com;L097
+S011;Isabel Jiménez Romero;isabel.jimenez@example.com;None
+S012;Andrés Alonso Castro;andres.alonso@example.com;L051
+S013;Lucía Romero Ortega;lucia.romero@example.com;None
+S014;Miguel Gutiérrez Serrano;miguel.gutierrez@example.com;None
+S015;Paula Navarro Iglesias;paula.navarro@example.com;None
