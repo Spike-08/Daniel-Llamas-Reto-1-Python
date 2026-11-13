@@ -62,12 +62,9 @@ def mostrar_libros(libros):
     if not libros:
         print("No hay libros para mostrar.")
         return
-        
-    print(f"{'Código':<8} | {'Título':<35} | {'Autor':<25} | {'Estado'}")
-    print("-" * 90)
+    print()    
+    print(f"{'Código':<8} | {'Título':<50} | {'Autor':<30} | {'Estado'}")
+    print("-" * 112)
     for libro in libros:
         estado = "Disponible" if libro.esta_disponible() else f"Prestado a {libro.cod_socio}"
-        # Acortamos el título si es muy largo para que la tabla quede mas organizada y comprensible para el usuario
-        titulo_corto = (libro.titulo[:32] + '...') if len(libro.titulo) > 35 else libro.titulo
-        autor_corto = (libro.autor[:22] + '...') if len(libro.autor) > 25 else libro.autor
-        print(f"{libro.codigo:<8} | {titulo_corto:<35} | {autor_corto:<25} | {estado}")
+        print(f"{libro.codigo:<8} | {libro.titulo:<50} | {libro.autor:<30} | {estado}")

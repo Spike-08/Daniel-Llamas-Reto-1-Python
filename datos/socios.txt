@@ -12,5 +12,5 @@ S011;Isabel Jiménez Romero;isabel.jimenez@example.com;None
 S012;Andrés Alonso Castro;andres.alonso@example.com;L051
 S013;Lucía Romero Ortega;lucia.romero@example.com;None
 S014;Miguel Gutiérrez Serrano;miguel.gutierrez@example.com;None
-S015;Paula Navarro Iglesias;paula.navarro@example.com;L099
+S015;Paula Navarro Iglesias;paula.navarro@example.com;None
 s016;Alejandro Sarmiento;alejandro@gmail.com;None

@@ -18,7 +18,8 @@ def main():
     except FileNotFoundError:
         print("Error: No se encontraron los archivos de datos en la carpeta 'datos/'.")
         return
-
+    
+    print("\n--- Bienvenido a la Biblioteca DALLS ---")
     opcion = ""
     while opcion != "8":
         print("\n--- MENÚ BIBLIOTECA ---")
@@ -31,7 +32,7 @@ def main():
         print("7. Añadir socio/libro")
         print("8. Salir y guardar")
         
-        opcion = input("Elige una opción: ")
+        opcion = input("\nElige una opción: ")
         
         # Usamos match-case, y con el case _ atrapamos las opciones incorrectas
         match opcion:
