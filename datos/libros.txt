@@ -96,5 +96,5 @@ L095;La fiesta del chivo;Mario Vargas Llosa;2000;Novela;None
 L096;Conversación en La Catedral;Mario Vargas Llosa;1969;Novela;None
 L097;La tía Julia y el escribidor;Mario Vargas Llosa;1977;Novela;S010
 L098;El otoño del patriarca;Gabriel García Márquez;1975;Novela;None
-L099;Memoria de mis putas tristes;Gabriel García Márquez;2004;Novela;None
+L099;Memoria de mis putas tristes;Gabriel García Márquez;2004;Novela;S015
 L100;Doña Bárbara;Rómulo Gallegos;1929;Novela;None
