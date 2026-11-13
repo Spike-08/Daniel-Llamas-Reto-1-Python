@@ -130,31 +130,41 @@ def mostrar_socio_libro(socios, libros):
         print("Ningún socio tiene libros prestados actualmente.")
 
 def anadir_libro_y_socio(libros, socios):
-    tipo = input("¿Qué quieres añadir? (Libro/Socio): ").strip().upper()
+    tipo = input("\n¿Qué quieres añadir? (Libro/Socio): ").strip().upper()
                 
     if tipo == "LIBRO":
-        cod = input("Código del libro: ")
-        if any(l.codigo == cod for l in libros):
-            print("Error: Ya existe un libro con ese código.")
+        if libros:
+            # Extraemos el número del último código (ej: "L100" -> 100) y le sumamos 1
+            ultimo_num = int(libros[-1].codigo[1:]) 
+            cod = f"L{ultimo_num + 1:03d}"
         else:
-            titulo = input("Título: ")
-            autor = input("Autor: ")
-            anio = int(input("Año: "))
-            categoria = input("Categoría: ")
-            nuevo_libro = Libro(cod, titulo, autor, anio, categoria, None)
-            libros.append(nuevo_libro)
-            print("Libro añadido a la lista. (Se guardará en el archivo al salir con la opción 8).")
+            cod = "L001"
+            
+        print(f"El código asignado automáticamente es: {cod}")
+        
+        titulo = input("Título: ")
+        autor = input("Autor: ")
+        anio = int(input("Año: "))
+        categoria = input("Categoría: ")
+        nuevo_libro = Libro(cod, titulo, autor, anio, categoria, None)
+        libros.append(nuevo_libro)
+        print("Libro añadido a la lista. (Se guardará al salir con la opción 8).")
                         
     elif tipo == "SOCIO":
-        cod = input("Código del socio: ")
-        if any(s.codigo_soc == cod for s in socios):
-            print("Error: Ya existe un socio con ese código.")
+        # Generar código automático para Socio (S001, S002...)
+        if socios:
+            ultimo_num = int(socios[-1].codigo_soc[1:])
+            cod = f"S{ultimo_num + 1:03d}"
         else:
-            nombre = input("Nombre: ")
-            email = input("Email: ")
-            nuevo_socio = Socio(cod, nombre, email, None)
-            socios.append(nuevo_socio)
-            print("Socio añadido a la lista. (Se guardará en el archivo al salir con la opción 8).")
+            cod = "S001"
+            
+        print(f"El código asignado automáticamente es: {cod}")
+        
+        nombre = input("Nombre: ")
+        email = input("Email: ")
+        nuevo_socio = Socio(cod, nombre, email, None)
+        socios.append(nuevo_socio)
+        print("Socio añadido a la lista. (Se guardará al salir con la opción 8).")
     else:
         print("Opción no válida. Escribe Libro o Socio.")
 
