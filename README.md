@@ -16,4 +16,4 @@ Proyecto final de Programación Orientada a Objetos en Python. Se trata de un si
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone https://github.com/Spike-08/Daniel-Llamas-Reto-1-Python.git
