@@ -1,0 +1,101 @@
+L001;Cien años de soledad;Gabriel García Márquez;1967;Novela;S003
+L002;Don Quijote de la Mancha;Miguel de Cervantes;1605;Novela;None
+L003;La casa de los espíritus;Isabel Allende;1982;Novela;None
+L004;Rayuela;Julio Cortázar;1963;Novela;None
+L005;Ficciones;Jorge Luis Borges;1944;Cuento;None
+L006;Pedro Páramo;Juan Rulfo;1955;Novela;None
+L007;La ciudad y los perros;Mario Vargas Llosa;1963;Novela;None
+L008;Veinte poemas de amor y una canción desesperada;Pablo Neruda;1924;Poesía;None
+L009;El túnel;Ernesto Sabato;1948;Novela;None
+L010;Los detectives salvajes;Roberto Bolaño;1998;Novela;S007
+L011;Como agua para chocolate;Laura Esquivel;1989;Novela;None
+L012;El amor en los tiempos del cólera;Gabriel García Márquez;1985;Novela;None
+L013;La sombra del viento;Carlos Ruiz Zafón;2001;Novela;None
+L014;Crónica de una muerte anunciada;Gabriel García Márquez;1981;Novela;None
+L015;La casa de Bernarda Alba;Federico García Lorca;1936;Teatro;None
+L016;Poeta en Nueva York;Federico García Lorca;1940;Poesía;None
+L017;Niebla;Miguel de Unamuno;1914;Novela;None
+L018;La Regenta;Leopoldo Alas Clarín;1884;Novela;None
+L019;Fortunata y Jacinta;Benito Pérez Galdós;1887;Novela;None
+L020;Misericordia;Benito Pérez Galdós;1897;Novela;None
+L021;Campos de Castilla;Antonio Machado;1912;Poesía;None
+L022;Platero y yo;Juan Ramón Jiménez;1914;Prosa poética;None
+L023;La colmena;Camilo José Cela;1951;Novela;None
+L024;Nada;Carmen Laforet;1945;Novela;None
+L025;El camino;Miguel Delibes;1950;Novela;None
+L026;Los santos inocentes;Miguel Delibes;1981;Novela;None
+L027;Cinco horas con Mario;Miguel Delibes;1966;Novela;None
+L028;La familia de Pascual Duarte;Camilo José Cela;1942;Novela;None
+L029;Tiempo de silencio;Luis Martín-Santos;1962;Novela;None
+L030;Últimas tardes con Teresa;Juan Marsé;1966;Novela;None
+L031;El Jarama;Rafael Sánchez Ferlosio;1955;Novela;None
+L032;La plaça del Diamant;Mercè Rodoreda;1962;Novela;None
+L033;Soldados de Salamina;Javier Cercas;2001;Novela;None
+L034;La velocidad de la luz;Javier Cercas;2005;Novela;None
+L035;Anatomía de un instante;Javier Cercas;2009;Ensayo;None
+L036;El lápiz del carpintero;Manuel Rivas;1998;Novela;None
+L037;La lengua de las mariposas;Manuel Rivas;1996;Cuento;None
+L038;O lapis do carpinteiro;Manuel Rivas;1998;Novela;None
+L039;Finisterre;María Rosa Lojo;2005;Novela;None
+L040;La invención de Morel;Adolfo Bioy Casares;1940;Novela;None
+L041;El sueño de los héroes;Adolfo Bioy Casares;1954;Novela;None
+L042;Bestiario;Julio Cortázar;1951;Cuento;None
+L043;Las armas secretas;Julio Cortázar;1959;Cuento;None
+L044;Todos los fuegos el fuego;Julio Cortázar;1966;Cuento;None
+L045;El aleph;Jorge Luis Borges;1949;Cuento;None
+L046;El informe de Brodie;Jorge Luis Borges;1970;Cuento;None
+L047;Historia universal de la infamia;Jorge Luis Borges;1935;Cuento;None
+L048;El libro de arena;Jorge Luis Borges;1975;Cuento;None
+L049;La muerte de Artemio Cruz;Carlos Fuentes;1962;Novela;None
+L050;Aura;Carlos Fuentes;1962;Novela;None
+L051;Terra Nostra;Carlos Fuentes;1975;Novela;S012
+L052;El laberinto de la soledad;Octavio Paz;1950;Ensayo;None
+L053;Piedra de sol;Octavio Paz;1957;Poesía;None
+L054;Libertad bajo palabra;Octavio Paz;1960;Poesía;None
+L055;Confieso que he vivido;Pablo Neruda;1974;Memorias;None
+L056;Residencia en la tierra;Pablo Neruda;1935;Poesía;None
+L057;Canto general;Pablo Neruda;1950;Poesía;None
+L058;La metamorfosis;Franz Kafka;1915;Novela;None
+L059;El proceso;Franz Kafka;1925;Novela;None
+L060;El castillo;Franz Kafka;1926;Novela;None
+L061;Crimen y castigo;Fiódor Dostoievski;1866;Novela;None
+L062;Los hermanos Karamázov;Fiódor Dostoievski;1880;Novela;None
+L063;Guerra y paz;Lev Tolstói;1869;Novela;None
+L064;Anna Karénina;Lev Tolstói;1878;Novela;None
+L065;Madame Bovary;Gustave Flaubert;1856;Novela;None
+L066;Los miserables;Victor Hugo;1862;Novela;None
+L067;El conde de Montecristo;Alexandre Dumas;1844;Novela;None
+L068;Los tres mosqueteros;Alexandre Dumas;1844;Novela;None
+L069;Orgullo y prejuicio;Jane Austen;1813;Novela;None
+L070;Jane Eyre;Charlotte Brontë;1847;Novela;None
+L071;Cumbres borrascosas;Emily Brontë;1847;Novela;None
+L072;David Copperfield;Charles Dickens;1850;Novela;None
+L073;Historia de dos ciudades;Charles Dickens;1859;Novela;None
+L074;Moby Dick;Herman Melville;1851;Novela;S005
+L075;Las aventuras de Tom Sawyer;Mark Twain;1876;Novela;None
+L076;Las aventuras de Huckleberry Finn;Mark Twain;1884;Novela;None
+L077;La isla del tesoro;Robert Louis Stevenson;1883;Novela;None
+L078;El extraño caso del doctor Jekyll y el señor Hyde;Robert Louis Stevenson;1886;Novela;S017
+L079;Drácula;Bram Stoker;1897;Novela;None
+L080;Frankenstein;Mary Shelley;1818;Novela;None
+L081;El retrato de Dorian Gray;Oscar Wilde;1890;Novela;None
+L082;1984;George Orwell;1949;Novela;None
+L083;Rebelión en la granja;George Orwell;1945;Novela;None
+L084;Un mundo feliz;Aldous Huxley;1932;Novela;None
+L085;Fahrenheit 451;Ray Bradbury;1953;Novela;None
+L086;El principito;Antoine de Saint-Exupéry;1943;Novela;None
+L087;El señor de los anillos;J. R. R. Tolkien;1954;Novela;None
+L088;El hobbit;J. R. R. Tolkien;1937;Novela;None
+L089;Harry Potter y la piedra filosofal;J. K. Rowling;1997;Novela;None
+L090;Crónica de Narnia;J. K. Rowling;1950;Novela;None
+L091;Matar a un ruiseñor;Harper Lee;1960;Novela;None
+L092;El guardián entre el centeno;J. D. Salinger;1951;Novela;None
+L093;En el camino;Jack Kerouac;1957;Novela;None
+L094;La carretera;Miguel Delibes;2000;Novela;None
+L095;La fiesta del chivo;Mario Vargas Llosa;2000;Novela;None
+L096;Conversación en La Catedral;Mario Vargas Llosa;1969;Novela;None
+L097;La tía Julia y el escribidor;Mario Vargas Llosa;1977;Novela;S010
+L098;El otoño del patriarca;Gabriel García Márquez;1975;Novela;None
+L099;Memoria de mis putas tristes;Gabriel García Márquez;2004;Novela;None
+L100;Doña Bárbara;Rómulo Gallegos;1929;Novela;None
+L101;Amor en los tiempos del colera;Gabriel Garcia Marquez;1985;Realismo Magico;None

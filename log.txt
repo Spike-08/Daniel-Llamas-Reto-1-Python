@@ -1,0 +1,7 @@
+[2026-11-13 21:34:22][PRESTAMO][Socio S015 toma el libro L099]
+[2026-11-13 21:53:05][DEVOLUCION][Socio S015 devuelve el libro L099]
+[2026-11-13 21:53:41][PRESTAMO][Socio S015 toma el libro L099]
+[2026-11-13 21:54:43][DEVOLUCION][Socio S015 devuelve el libro L099]
+[2026-11-13 23:40:03][PRESTAMO][Socio S008 toma el libro L078]
+[2026-11-13 23:41:14][DEVOLUCION][Socio S008 devuelve el libro L078]
+[2026-11-13 23:42:56][PRESTAMO][Socio S017 toma el libro L078]
