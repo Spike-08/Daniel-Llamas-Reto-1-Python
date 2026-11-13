@@ -75,7 +75,7 @@ L074;Moby Dick;Herman Melville;1851;Novela;S005
 L075;Las aventuras de Tom Sawyer;Mark Twain;1876;Novela;None
 L076;Las aventuras de Huckleberry Finn;Mark Twain;1884;Novela;None
 L077;La isla del tesoro;Robert Louis Stevenson;1883;Novela;None
-L078;El extraño caso del doctor Jekyll y el señor Hyde;Robert Louis Stevenson;1886;Novela;None
+L078;El extraño caso del doctor Jekyll y el señor Hyde;Robert Louis Stevenson;1886;Novela;S017
 L079;Drácula;Bram Stoker;1897;Novela;None
 L080;Frankenstein;Mary Shelley;1818;Novela;None
 L081;El retrato de Dorian Gray;Oscar Wilde;1890;Novela;None
@@ -98,3 +98,4 @@ L097;La tía Julia y el escribidor;Mario Vargas Llosa;1977;Novela;S010
 L098;El otoño del patriarca;Gabriel García Márquez;1975;Novela;None
 L099;Memoria de mis putas tristes;Gabriel García Márquez;2004;Novela;None
 L100;Doña Bárbara;Rómulo Gallegos;1929;Novela;None
+L101;Amor en los tiempos del colera;Gabriel Garcia Marquez;1985;Realismo Magico;None

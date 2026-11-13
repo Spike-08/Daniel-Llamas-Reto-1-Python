@@ -1,7 +1,7 @@
 # Daniel-Llamas-Reto-1-Python
 # Sistema de Gestión de Biblioteca 
 
-Proyecto final de Programación Orientada a Objetos. Se trata de un sistema de gestión de biblioteca por consola que permite administrar libros y socios, gestionar préstamos y devoluciones, y persistir los datos en archivos de texto.
+Proyecto final de Programación Orientada a Objetos en Python. Se trata de un sistema de gestión de biblioteca por consola que permite administrar libros y socios, gestionar préstamos y devoluciones, y persistir los datos en archivos de texto.
 
 ##  Características principales
 
@@ -14,7 +14,6 @@ Proyecto final de Programación Orientada a Objetos. Se trata de un sistema de g
 
 ##  Requisitos e Instalación
 
-1. Asegúrate de tener **Python 3.10 o superior** (se utiliza la estructura `match-case`).
-2. Clona este repositorio en tu máquina local:
+1. Clona este repositorio en tu máquina local:
    ```bash
    git clone <URL_DE_TU_REPOSITORIO>

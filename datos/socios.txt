@@ -14,3 +14,4 @@ S013;Lucía Romero Ortega;lucia.romero@example.com;None
 S014;Miguel Gutiérrez Serrano;miguel.gutierrez@example.com;None
 S015;Paula Navarro Iglesias;paula.navarro@example.com;None
 s016;Alejandro Sarmiento;alejandro@gmail.com;None
+S017;Daniel Llamas;llamasdaniel@gmail.com;L078
